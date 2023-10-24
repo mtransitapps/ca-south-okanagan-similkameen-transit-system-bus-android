@@ -1,4 +1,15 @@
 'SOS2309-2309SA-Saturday-11',1501,192000,0,'Downtown',0,12400,0,'Downtown',0
+'SOS2309-2309SU-Sunday-21',1501,192000,0,'Downtown',0,12400,0,'Downtown',0,16400,0,'Downtown',0,22400,0,'Downtown',0,12400,0,'Downtown',0
 'SOS2309-2309WK-Weekday-11',1501,192000,0,'Downtown',0,12400,0,'Downtown',0
+'SOS2309-2309WK-Weekday-21',1501,192000,0,'Downtown',0,12400,0,'Downtown',0
+'SOS2309-2309WK-Weekday-31',1501,192000,0,'Downtown',0,12400,0,'Downtown',0
+'SOS2309-2309WK-Weekday-32',1501,192000,0,'Downtown',0,12400,0,'Downtown',0
+'SOS2309-2309WK-Weekday-41',1501,192000,0,'Downtown',0,12400,0,'Downtown',0
 'SOS2309-2309WK-Weekday-11',2000,75000,0,'Heritage Hls',0,17000,0,'Heritage Hls',0,30000,0,'Heritage Hls',0,42900,0,'Penticton',0,17000,0,'Penticton',0
+'SOS2309-2309WK-Weekday-21',2000,75000,0,'Heritage Hls',0,17000,0,'Heritage Hls',0,30000,0,'Heritage Hls',0,42900,0,'Penticton',0,17000,0,'Penticton',0
+'SOS2309-2309WK-Weekday-31',2000,75000,0,'Heritage Hls',0,17000,0,'Heritage Hls',0,30000,0,'Heritage Hls',0,42900,0,'Penticton',0,17000,0,'Penticton',0
+'SOS2309-2309WK-Weekday-32',2000,75000,0,'Heritage Hls',0,17000,0,'Heritage Hls',0,30000,0,'Heritage Hls',0,42900,0,'Penticton',0,17000,0,'Penticton',0
 'SOS2309-2309WK-Weekday-11',7001,183000,,'',0
+'SOS2309-2309WK-Weekday-21',7001,183000,,'',0
+'SOS2309-2309WK-Weekday-31',7001,183000,,'',0
+'SOS2309-2309WK-Weekday-32',7001,183000,,'',0
