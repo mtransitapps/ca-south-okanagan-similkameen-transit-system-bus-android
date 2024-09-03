@@ -10,9 +10,19 @@
 501,0,'Peachtree',5
 1001,0,'Cherry Ln',10
 1000,0,'Naramata',10
+1100,0,'Cherry Ln',11
+1101,0,'West Bench',11
 1500,0,'Downtown',15
 1501,0,'Peachtree',15
 1600,0,'Okanagan Lk',16
 1601,0,'Skaha Lk',16
+2001,0,'Heritage Hls / Okanagan Falls',20
+2000,0,'Heritage Hls / Penticton',20
+2100,0,'OK Falls Local',21
 3001,0,'Penticton',30
 3000,0,'Summerland',30
+4001,0,'Osoyoos',40
+4000,0,'Penticton',40
+4100,0,'Osoyooos Local',41
+7000,0,'Kelowna',70
+7001,0,'South Main',70
